@@ -1,0 +1,49 @@
+{
+  "name": "verdict-design0001",
+  "version": "1.0.0",
+  "description": "VERDICT.COM Design System - Core page designs for multi-vertical legal Q&A platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.3.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "@clerk/nextjs": "6.11.0",
+    "@supabase/supabase-js": "2.48.0",
+    "@supabase/ssr": "0.6.0",
+    "ai": "3.4.33",
+    "@ai-sdk/openai": "0.0.77",
+    "zod": "3.24.1",
+    "framer-motion": "11.15.0",
+    "lucide-react": "0.469.0"
+  },
+  "devDependencies": {
+    "typescript": "5.8.0",
+    "@types/react": "19.0.0",
+    "@types/node": "22.10.0",
+    "tailwindcss": "4.1.0",
+    "eslint": "9.18.0"
+  },
+  "keywords": [
+    "legal",
+    "ai",
+    "q&a",
+    "lawyers",
+    "employment-law",
+    "react",
+    "nextjs",
+    "tailwind",
+    "design-system"
+  ],
+  "author": "VERDICT.COM",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vappsusa/vcomdesign"
+  }
+}
